@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be0678cf-fbf8-4b95-b46a-8934139049f1)![image](https://github.com/user-attachments/assets/446e1b80-0e72-4ff5-8f5b-0d0fa8d1ab48)# Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
+# Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
 Ex No: 01     Design & Implementation of 6T SRAM using Cadence EDA Tools   
 
 Aim:
